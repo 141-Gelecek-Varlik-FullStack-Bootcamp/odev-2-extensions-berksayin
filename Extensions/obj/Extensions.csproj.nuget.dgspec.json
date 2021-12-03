@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Extensions\\Extensions.csproj": {}
+    "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Extensions\\Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Extensions\\Extensions.csproj": {
+    "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Extensions\\Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Extensions\\Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Extensions\\Extensions.csproj",
         "projectName": "Extensions",
-        "projectPath": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Extensions\\Extensions.csproj",
+        "projectPath": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Extensions\\Extensions.csproj",
         "packagesPath": "C:\\Users\\Timtas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Extensions\\obj\\",
+        "outputPath": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Odev_02_Core\\Odev_02_Core.csproj": {
-                "projectPath": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Odev_02_Core\\Odev_02_Core.csproj"
+              "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Odev_02_Core\\Odev_02_Core.csproj": {
+                "projectPath": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Odev_02_Core\\Odev_02_Core.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Odev_02_Core\\Odev_02_Core.csproj": {
+    "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Odev_02_Core\\Odev_02_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Odev_02_Core\\Odev_02_Core.csproj",
+        "projectUniqueName": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Odev_02_Core\\Odev_02_Core.csproj",
         "projectName": "Odev_02_Core",
-        "projectPath": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Odev_02_Core\\Odev_02_Core.csproj",
+        "projectPath": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Odev_02_Core\\Odev_02_Core.csproj",
         "packagesPath": "C:\\Users\\Timtas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timtas\\source\\repos\\Odev_02_Extensions_Attribute\\Odev_02_Core\\obj\\",
+        "outputPath": "C:\\Users\\Timtas\\source\\repos\\odev-2-extensions-berksayin\\Odev_02_Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

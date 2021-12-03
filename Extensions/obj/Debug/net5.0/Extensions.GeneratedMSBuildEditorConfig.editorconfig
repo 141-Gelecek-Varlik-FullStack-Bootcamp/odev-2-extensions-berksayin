@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Extensions
-build_property.ProjectDir = C:\Users\Timtas\Source\Repos\odev-2-extensions-berksayin\Extensions\
+build_property.ProjectDir = C:\Users\Timtas\source\repos\odev-2-extensions-berksayin\Extensions\
