@@ -18,7 +18,8 @@ namespace Odev_02_WebAPP.Controllers
         {
             _logger = logger;
         }
-
+        
+        //Customizable authorization level (Between 1 and 3)
         private const int authlevel = 2;
 
         [HttpGet]
